@@ -1,11 +1,12 @@
-Roll a die
--pretty self explanatory
+<ins>Roll a die</ins>
 
-For Windows:
+Roll a die Simulator.
+
+- For Windows:
 1. Download and run 'main.exe'
 2. Start using it
 
-For other platforms:
+- For other platforms:
 1. Download the 'main.cpp'
 2. Delete the 4th line containing "#include<windows.h>"
 3. Edit the lines containing system("cls") with your os' specific command to clear the console. (exp: linux-system("clear"))
