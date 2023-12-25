@@ -7,7 +7,7 @@ Roll a die Simulator.
 2. Start using it
 
 - For other platforms (Unix-based like Linux or Mac):
-- 
+ 
 Note: Because of some errors with my Linux VM, the file I made always gets corrupted when transfered to my host machine so I decided to remove it and leave the user to compile it.
 1. Download 'main_unix.cpp'
 2. Compile it yourself using g++
