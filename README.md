@@ -7,8 +7,9 @@ Roll a die Simulator.
 2. Start using it
 
 - For other platforms (Unix-based like Linux or Mac):
-1. Download and run 'main.sh'
-2. Start using it
+Note: Becuase of some errors with my Linux VM, the file I made always gets corrupted so i decided to remove it and leave the user to compile it.
+1. Download 'main_unix.cpp'
+2. Compile it yourself using g++
 
 If you encounter any errors, download the 'main.cpp' and modify the source code according to your device or start an issue and I'll try to resolve it.
 
